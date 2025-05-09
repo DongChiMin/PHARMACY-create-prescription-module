@@ -45,7 +45,7 @@ Phần mềm quản lý nhà thuốc - module tạo đơn thuốc. Sử dụng n
    - `mongodb-driver-sync-<version>.jar`
    - `mongodb-driver-core-<version>.jar`
    - `bson-<version>.jar`
-3. Cài đặt mongoDB, load dữ liệu mongoDB đầy đủ (tải tại - `data`)
+3. Cài đặt mongoDB, load dữ liệu mongoDB đầy đủ (tải tại - `mongoDBData`)
 4. Đảm bảo MongoDB đang chạy tại `localhost:27017`
 5. Clean & Build → Run Project
 
