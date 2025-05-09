@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "681cec9e307a70516e0ec0bf"
+  },
+  "created_date": {
+    "$date": "2025-05-08T17:40:46.051Z"
+  },
+  "total_price": 5437000,
+  "discount_amount": 815550,
+  "final_price": 4621450,
+  "status": "paid",
+  "customer_id": {
+    "$oid": "681c7b404359300dc697c9ce"
+  },
+  "promotion_id": {
+    "$oid": "681c3478fda057a2aa8a8d72"
+  },
+  "note": ""
+},
+{
+  "_id": {
+    "$oid": "681cf2ece35ad36aa2bf3e24"
+  },
+  "created_date": {
+    "$date": "2025-05-08T18:07:40.934Z"
+  },
+  "total_price": 33500,
+  "discount_amount": 0,
+  "final_price": 33500,
+  "status": "paid",
+  "customer_id": {
+    "$oid": "681c856b4359300dc697c9d1"
+  },
+  "promotion_id": null,
+  "note": ""
+},
+{
+  "_id": {
+    "$oid": "681cf35b1708246be4e667e3"
+  },
+  "created_date": {
+    "$date": "2025-05-08T18:09:31.224Z"
+  },
+  "total_price": 28500,
+  "discount_amount": 0,
+  "final_price": 28500,
+  "status": "paid",
+  "customer_id": {
+    "$oid": "681c857c4359300dc697c9d3"
+  },
+  "promotion_id": null,
+  "note": ""
+},
+{
+  "_id": {
+    "$oid": "681cf38fbeee653f8fe74499"
+  },
+  "created_date": {
+    "$date": "2025-05-08T18:10:23.330Z"
+  },
+  "total_price": 132000,
+  "discount_amount": 0,
+  "final_price": 132000,
+  "status": "paid",
+  "customer_id": {
+    "$oid": "681c856b4359300dc697c9d1"
+  },
+  "promotion_id": null,
+  "note": ""
+},
+{
+  "_id": {
+    "$oid": "681d07644bb99c65821f42a7"
+  },
+  "created_date": {
+    "$date": "2025-05-08T19:35:00.389Z"
+  },
+  "total_price": 8643000,
+  "discount_amount": 1750,
+  "final_price": 8641250,
+  "status": "paid",
+  "customer_id": {
+    "$oid": "681c7b404359300dc697c9c6"
+  },
+  "promotion_id": {
+    "$oid": "681c3478fda057a2aa8a8d73"
+  },
+  "note": ""
+},
+{
+  "_id": {
+    "$oid": "681d08ee4bb99c65821f42b5"
+  },
+  "created_date": {
+    "$date": "2025-05-08T19:41:34.720Z"
+  },
+  "total_price": 393000,
+  "discount_amount": 39300,
+  "final_price": 353700,
+  "status": "paid",
+  "customer_id": {
+    "$oid": "681c856b4359300dc697c9d1"
+  },
+  "promotion_id": {
+    "$oid": "111111111111111111111111"
+  },
+  "note": "Uống 3 viên buổi tối"
+}]

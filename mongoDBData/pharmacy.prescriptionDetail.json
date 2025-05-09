@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "681cec9e307a70516e0ec0c0"
+  },
+  "prescription_id": "681cec9e307a70516e0ec0bf",
+  "medicine_id": "681b938650006553b046a59e",
+  "quantity": 90,
+  "price": 60000,
+  "total": 5400000
+},
+{
+  "_id": {
+    "$oid": "681cec9e307a70516e0ec0c1"
+  },
+  "prescription_id": "681cec9e307a70516e0ec0bf",
+  "medicine_id": "681b931c50006553b046a593",
+  "quantity": 1,
+  "price": 18000,
+  "total": 18000
+},
+{
+  "_id": {
+    "$oid": "681cec9e307a70516e0ec0c2"
+  },
+  "prescription_id": "681cec9e307a70516e0ec0bf",
+  "medicine_id": "681b931c50006553b046a596",
+  "quantity": 1,
+  "price": 19000,
+  "total": 19000
+},
+{
+  "_id": {
+    "$oid": "681cf2ece35ad36aa2bf3e25"
+  },
+  "prescription_id": "681cf2ece35ad36aa2bf3e24",
+  "medicine_id": "681b938650006553b046a5a1",
+  "quantity": 1,
+  "price": 30000,
+  "total": 30000
+},
+{
+  "_id": {
+    "$oid": "681cf2ece35ad36aa2bf3e26"
+  },
+  "prescription_id": "681cf2ece35ad36aa2bf3e24",
+  "medicine_id": "681b938650006553b046a5a2",
+  "quantity": 1,
+  "price": 3500,
+  "total": 3500
+},
+{
+  "_id": {
+    "$oid": "681cf35b1708246be4e667e4"
+  },
+  "prescription_id": "681cf35b1708246be4e667e3",
+  "medicine_id": "681b938650006553b046a5a2",
+  "quantity": 1,
+  "price": 3500,
+  "total": 3500
+},
+{
+  "_id": {
+    "$oid": "681cf35b1708246be4e667e5"
+  },
+  "prescription_id": "681cf35b1708246be4e667e3",
+  "medicine_id": "681b8cb350006553b046a58f",
+  "quantity": 1,
+  "price": 25000,
+  "total": 25000
+},
+{
+  "_id": {
+    "$oid": "681cf38fbeee653f8fe7449a"
+  },
+  "prescription_id": "681cf38fbeee653f8fe74499",
+  "medicine_id": "681b938650006553b046a59f",
+  "quantity": 1,
+  "price": 95000,
+  "total": 95000
+},
+{
+  "_id": {
+    "$oid": "681cf38fbeee653f8fe7449b"
+  },
+  "prescription_id": "681cf38fbeee653f8fe74499",
+  "medicine_id": "681b931c50006553b046a593",
+  "quantity": 1,
+  "price": 18000,
+  "total": 18000
+},
+{
+  "_id": {
+    "$oid": "681cf38fbeee653f8fe7449c"
+  },
+  "prescription_id": "681cf38fbeee653f8fe74499",
+  "medicine_id": "681b931c50006553b046a596",
+  "quantity": 1,
+  "price": 19000,
+  "total": 19000
+},
+{
+  "_id": {
+    "$oid": "681d07644bb99c65821f42a8"
+  },
+  "prescription_id": "681d07644bb99c65821f42a7",
+  "medicine_id": "681b931c50006553b046a591",
+  "quantity": 1,
+  "price": 35000,
+  "total": 35000
+},
+{
+  "_id": {
+    "$oid": "681d07644bb99c65821f42a9"
+  },
+  "prescription_id": "681d07644bb99c65821f42a7",
+  "medicine_id": "681b938650006553b046a59f",
+  "quantity": 90,
+  "price": 95000,
+  "total": 8550000
+},
+{
+  "_id": {
+    "$oid": "681d07644bb99c65821f42aa"
+  },
+  "prescription_id": "681d07644bb99c65821f42a7",
+  "medicine_id": "681b931c50006553b046a598",
+  "quantity": 1,
+  "price": 40000,
+  "total": 40000
+},
+{
+  "_id": {
+    "$oid": "681d07644bb99c65821f42ab"
+  },
+  "prescription_id": "681d07644bb99c65821f42a7",
+  "medicine_id": "681b938650006553b046a5a3",
+  "quantity": 1,
+  "price": 18000,
+  "total": 18000
+},
+{
+  "_id": {
+    "$oid": "681d08ee4bb99c65821f42b6"
+  },
+  "prescription_id": "681d08ee4bb99c65821f42b5",
+  "medicine_id": "681b931c50006553b046a593",
+  "quantity": 1,
+  "price": 18000,
+  "total": 18000
+},
+{
+  "_id": {
+    "$oid": "681d08ee4bb99c65821f42b7"
+  },
+  "prescription_id": "681d08ee4bb99c65821f42b5",
+  "medicine_id": "681b8cb350006553b046a58f",
+  "quantity": 15,
+  "price": 25000,
+  "total": 375000
+}]

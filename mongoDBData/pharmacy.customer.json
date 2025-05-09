@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9c5"
+  },
+  "name": "Nguyễn Văn A",
+  "phoneNumber": "0912345678",
+  "birthDate": {
+    "$date": "1990-05-15T00:00:00.000Z"
+  },
+  "address": "123 Đường Lê Lợi, Quận 1, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9c6"
+  },
+  "name": "Trần Thị B",
+  "phoneNumber": "0987654321",
+  "birthDate": {
+    "$date": "1985-09-22T00:00:00.000Z"
+  },
+  "address": "456 Đường Hai Bà Trưng, Quận 3, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9c7"
+  },
+  "name": "Lê Văn C",
+  "phoneNumber": "0909123456",
+  "birthDate": {
+    "$date": "1995-12-01T00:00:00.000Z"
+  },
+  "address": "789 Đường Nguyễn Trãi, Quận 5, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9c8"
+  },
+  "name": "Phạm Thị Dung",
+  "phoneNumber": "0938123456",
+  "birthDate": {
+    "$date": "2000-01-10T00:00:00.000Z"
+  },
+  "address": "12 Trần Hưng Đạo, Quận 1, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9c9"
+  },
+  "name": "Đỗ Minh Tuấn",
+  "phoneNumber": "0944567890",
+  "birthDate": {
+    "$date": "1988-03-20T00:00:00.000Z"
+  },
+  "address": "90 Lý Thường Kiệt, Hà Nội"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9ca"
+  },
+  "name": "Lý Thị Hồng",
+  "phoneNumber": "0971122334",
+  "birthDate": {
+    "$date": "1992-08-18T00:00:00.000Z"
+  },
+  "address": "27 Nguyễn Văn Cừ, Đà Nẵng"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9cb"
+  },
+  "name": "Vũ Quốc Huy",
+  "phoneNumber": "0966677889",
+  "birthDate": {
+    "$date": "1983-11-05T00:00:00.000Z"
+  },
+  "address": "45 Phạm Văn Đồng, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9cc"
+  },
+  "name": "Ngô Thị Mai",
+  "phoneNumber": "0959988776",
+  "birthDate": {
+    "$date": "1997-07-30T00:00:00.000Z"
+  },
+  "address": "56 Lê Duẩn, Huế"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9cd"
+  },
+  "name": "Trịnh Công Sơn",
+  "phoneNumber": "0911223344",
+  "birthDate": {
+    "$date": "1979-12-09T00:00:00.000Z"
+  },
+  "address": "101 Pasteur, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c7b404359300dc697c9ce"
+  },
+  "name": "Nguyễn Hữu Nhân",
+  "phoneNumber": "0933445566",
+  "birthDate": {
+    "$date": "1994-04-22T00:00:00.000Z"
+  },
+  "address": "23 Cách Mạng Tháng Tám, Cần Thơ"
+},
+{
+  "_id": {
+    "$oid": "681c856b4359300dc697c9d1"
+  },
+  "name": "Nguyễn Sinh Nhật",
+  "phoneNumber": "0912345678",
+  "birthDate": {
+    "$date": "1970-05-09T00:00:00.000Z"
+  },
+  "address": "123 Đường Lê Lợi, Quận 1, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c857c4359300dc697c9d3"
+  },
+  "name": "Nguyễn Sinh Nhật Hôm qua",
+  "phoneNumber": "0912345678",
+  "birthDate": {
+    "$date": "2004-05-08T00:00:00.000Z"
+  },
+  "address": "123 Đường Lê Lợi, Quận 1, TP.HCM"
+},
+{
+  "_id": {
+    "$oid": "681c9a1e62a8d34df2ff45c5"
+  },
+  "name": "aaa",
+  "phoneNumber": "aaa",
+  "birthDate": {
+    "$date": "2025-05-21T11:48:17.947Z"
+  },
+  "address": "a"
+},
+{
+  "_id": {
+    "$oid": "681c9a722d2da4129203cb82"
+  },
+  "name": "SN",
+  "phoneNumber": "028371231",
+  "birthDate": {
+    "$date": "2025-05-08T11:49:54.621Z"
+  },
+  "address": "A"
+},
+{
+  "_id": {
+    "$oid": "681c9b1415af5e4418db4456"
+  },
+  "name": "awww",
+  "phoneNumber": "awww",
+  "birthDate": {
+    "$date": "2025-05-08T11:52:50.140Z"
+  },
+  "address": "wwww"
+},
+{
+  "_id": {
+    "$oid": "681ca50482f52d6a4195c626"
+  },
+  "name": "1111",
+  "phoneNumber": "11123",
+  "birthDate": {
+    "$date": "2025-05-08T12:35:14.903Z"
+  },
+  "address": "123123213"
+}]

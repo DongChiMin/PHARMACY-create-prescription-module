@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "681b8cb350006553b046a58f"
+  },
+  "name": "Paracetamol",
+  "brand": "CTCP Trị Cảm",
+  "category": "thuốc cảm cúm",
+  "description": "hộp 25 viên",
+  "dosage": "25mg",
+  "price": 25000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a591"
+  },
+  "name": "Ibuprofen",
+  "brand": "STADA",
+  "category": "thuốc giảm đau",
+  "description": "hộp 20 viên",
+  "dosage": "200mg",
+  "price": 35000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a592"
+  },
+  "name": "Amoxicillin",
+  "brand": "DHG Pharma",
+  "category": "kháng sinh",
+  "description": "vỉ 10 viên",
+  "dosage": "500mg",
+  "price": 15000,
+  "unit": "vỉ"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a593"
+  },
+  "name": "Loratadine",
+  "brand": "Tiffy",
+  "category": "thuốc dị ứng",
+  "description": "hộp 10 viên",
+  "dosage": "10mg",
+  "price": 18000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a594"
+  },
+  "name": "Vitamin C",
+  "brand": "OPC",
+  "category": "vitamin",
+  "description": "lọ 100 viên nhai",
+  "dosage": "500mg",
+  "price": 45000,
+  "unit": "lọ"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a595"
+  },
+  "name": "Cotrimoxazole",
+  "brand": "Imexpharm",
+  "category": "kháng sinh",
+  "description": "hộp 20 viên",
+  "dosage": "480mg",
+  "price": 22000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a596"
+  },
+  "name": "Ranitidine",
+  "brand": "Domesco",
+  "category": "thuốc dạ dày",
+  "description": "vỉ 10 viên",
+  "dosage": "150mg",
+  "price": 19000,
+  "unit": "vỉ"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a597"
+  },
+  "name": "Diazepam",
+  "brand": "VCP",
+  "category": "thuốc an thần",
+  "description": "vỉ 10 viên",
+  "dosage": "5mg",
+  "price": 16000,
+  "unit": "vỉ"
+},
+{
+  "_id": {
+    "$oid": "681b931c50006553b046a598"
+  },
+  "name": "Efferalgan",
+  "brand": "UPSA",
+  "category": "thuốc hạ sốt",
+  "description": "hộp 16 viên sủi",
+  "dosage": "500mg",
+  "price": 40000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a59a"
+  },
+  "name": "Cephalexin",
+  "brand": "Mekophar",
+  "category": "kháng sinh",
+  "description": "hộp 2 vỉ x 10 viên",
+  "dosage": "500mg",
+  "price": 28000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a59b"
+  },
+  "name": "Cotrim Forte",
+  "brand": "Domesco",
+  "category": "kháng sinh",
+  "description": "vỉ 10 viên",
+  "dosage": "960mg",
+  "price": 24000,
+  "unit": "vỉ"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a59c"
+  },
+  "name": "Decolgen",
+  "brand": "Phil Inter Pharma",
+  "category": "thuốc cảm cúm",
+  "description": "hộp 20 viên",
+  "dosage": "500mg",
+  "price": 33000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a59d"
+  },
+  "name": "Acemol",
+  "brand": "Pymepharco",
+  "category": "thuốc hạ sốt",
+  "description": "vỉ 10 viên",
+  "dosage": "325mg",
+  "price": 12000,
+  "unit": "vỉ"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a59e"
+  },
+  "name": "Spasmalgon",
+  "brand": "Sopharma",
+  "category": "thuốc giảm đau",
+  "description": "lọ 100 viên",
+  "dosage": "500mg",
+  "price": 60000,
+  "unit": "lọ"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a59f"
+  },
+  "name": "Salbutamol",
+  "brand": "Sandoz",
+  "category": "thuốc hen suyễn",
+  "description": "ống hít 200 liều",
+  "dosage": "100mcg/liều",
+  "price": 95000,
+  "unit": "ống"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a5a0"
+  },
+  "name": "Cebion",
+  "brand": "Sanofi",
+  "category": "vitamin",
+  "description": "lọ 100ml",
+  "dosage": "100mg/5ml",
+  "price": 40000,
+  "unit": "lọ"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a5a1"
+  },
+  "name": "Hydrite",
+  "brand": "United Pharma",
+  "category": "bù nước điện giải",
+  "description": "hộp 10 tép",
+  "dosage": "10g/tép",
+  "price": 30000,
+  "unit": "hộp"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a5a2"
+  },
+  "name": "Oresol",
+  "brand": "Nam Hà",
+  "category": "bù nước điện giải",
+  "description": "tép 27.9g",
+  "dosage": "1 tép pha 1 lít",
+  "price": 3500,
+  "unit": "tép"
+},
+{
+  "_id": {
+    "$oid": "681b938650006553b046a5a3"
+  },
+  "name": "Methorphan",
+  "brand": "Vidipha",
+  "category": "thuốc ho",
+  "description": "lọ 60ml",
+  "dosage": "15mg/5ml",
+  "price": 18000,
+  "unit": "lọ"
+}]

@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d72"
+  },
+  "name": "Giảm 15% cho đơn trên 300k",
+  "discount_type": "PERCENT",
+  "discount_value": 15,
+  "min_order_value": 300000,
+  "start_date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-05-15T23:59:59.000Z"
+  },
+  "applied_products": [],
+  "description": "Giảm 15% cho tất cả các đơn hàng trên 300.000đ"
+},
+{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d73"
+  },
+  "name": "Giảm 5% cho đơn > 500k theo sản phẩm",
+  "discount_type": "PERCENT",
+  "discount_value": 5,
+  "min_order_value": 500000,
+  "start_date": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-05-20T23:59:59.000Z"
+  },
+  "applied_products": [
+    {
+      "$oid": "681b8cb350006553b046a58f"
+    },
+    {
+      "$oid": "681b931c50006553b046a591"
+    }
+  ],
+  "description": "Giảm 5% cho đơn hàng có sản phẩm Paracetamol hoặc Ibuprofen, giá trị đơn trên 500.000đ."
+},
+{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d74"
+  },
+  "name": "Giảm 10% cho sản phẩm chọn lọc",
+  "discount_type": "PERCENT",
+  "discount_value": 10,
+  "min_order_value": 0,
+  "start_date": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-05-30T23:59:59.000Z"
+  },
+  "applied_products": [
+    {
+      "$oid": "681b931c50006553b046a592"
+    },
+    {
+      "$oid": "681b931c50006553b046a593"
+    }
+  ],
+  "description": "Giảm 10% cho sản phẩm chọn lọc. Áp dụng cho Amoxicillin và Loratadine"
+},
+{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d75"
+  },
+  "name": "Giảm 200.000đ cho đơn > 1 triệu",
+  "discount_type": "FIXED",
+  "discount_value": 200000,
+  "min_order_value": 1000000,
+  "start_date": {
+    "$date": "2025-05-12T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-06-01T23:59:59.000Z"
+  },
+  "applied_products": [],
+  "description": "Giảm 200.000đ cho đơn hàng có giá trị trên 1.000.000đ. Áp dụng cho tất cả sản phẩm"
+},
+{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d76"
+  },
+  "name": "Giảm 20% cho tất cả các đơn hàng",
+  "discount_type": "PERCENT",
+  "discount_value": 20,
+  "min_order_value": 0,
+  "start_date": {
+    "$date": "2025-06-01T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-06-15T23:59:59.000Z"
+  },
+  "applied_products": [],
+  "description": "Giảm 20% cho tất cả các đơn hàng. Áp dụng cho tất cả sản phẩm"
+},
+{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d77"
+  },
+  "name": "Giảm 10% đơn trên 200k có sản phẩm",
+  "discount_type": "PERCENT",
+  "discount_value": 10,
+  "min_order_value": 200000,
+  "start_date": {
+    "$date": "2025-06-10T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-06-20T23:59:59.000Z"
+  },
+  "applied_products": [
+    {
+      "$oid": "681b931c50006553b046a596"
+    }
+  ],
+  "description": "Giảm 10% cho sản phẩm Ranitidine với đơn có giá trị trên 200.000đ."
+},
+{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d78"
+  },
+  "name": "Giảm 5% cho khách hàng",
+  "discount_type": "PERCENT",
+  "discount_value": 5,
+  "min_order_value": 0,
+  "start_date": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-06-30T23:59:59.000Z"
+  },
+  "applied_products": [],
+  "description": "Giảm 5% cho khách hàng. Áp dụng cho tất cả sản phẩm"
+},
+{
+  "_id": {
+    "$oid": "681c3478fda057a2aa8a8d79"
+  },
+  "name": "Giảm 300.000đ cho đơn > 2 triệu",
+  "discount_type": "FIXED",
+  "discount_value": 300000,
+  "min_order_value": 2000000,
+  "start_date": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-07-01T23:59:59.000Z"
+  },
+  "applied_products": [],
+  "description": "Giảm 300.000đ cho đơn hàng có giá trị trên 2.000.000đ. Áp dụng cho tất cả sản phẩm"
+},
+{
+  "_id": {
+    "$oid": "111111111111111111111111"
+  },
+  "name": "Voucher sinh nhật giảm 10%",
+  "discount_type": "PERCENT",
+  "discount_value": 10,
+  "min_order_value": 0,
+  "start_date": {
+    "$date": "2025-05-02T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2025-05-15T23:59:59.000Z"
+  },
+  "applied_products": [],
+  "description": "Giảm 10% cho tất cả các đơn hàng"
+}]
