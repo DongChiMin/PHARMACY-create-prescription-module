@@ -11,28 +11,26 @@ Phần mềm quản lý nhà thuốc - module tạo đơn thuốc. Sử dụng n
 
 ## 🖼️ Giao diện minh họa
 
-### 1. Giao diện chọn khách hàng
-![Chọn khách hàng](![Image](https://github.com/user-attachments/assets/f52062f9-7cad-49ed-b8c6-68c376b8df86)
-![Image](https://github.com/user-attachments/assets/89be274c-4f5e-4f5f-9c77-24be8f582813)
-![Image](https://github.com/user-attachments/assets/f6c72aa0-97d7-4b3b-ae1f-9895323e6848)
-![Image](https://github.com/user-attachments/assets/fb5c23e8-321e-40e3-b37c-b822c5dd54f1)
-![Image](https://github.com/user-attachments/assets/b604a9ae-b632-4ba0-b858-a0d26b591c7f)
-![Image](https://github.com/user-attachments/assets/bfc57743-6d2a-49b6-a97e-c896176228fc)
-![Image](https://github.com/user-attachments/assets/be8b66c4-c896-4ba1-b072-b53a2da6ae76)
+### 1. Giao diện tạo đơn thuốc
+![Image](https://github.com/user-attachments/assets/fdd7ffc4-d02f-427a-a0a2-069c2efc7034)
 ![Image](https://github.com/user-attachments/assets/4b44d55b-9115-4bab-a47d-b83e8c6f61ab)
-![Image](https://github.com/user-attachments/assets/fdd7ffc4-d02f-427a-a0a2-069c2efc7034))
 
-### 2. Giao diện tạo đơn thuốc
-![Tạo đơn thuốc](https://link-anh-2)
+### 2. Giao diện chọn khách hàng & thêm khách hàng
+![Image](https://github.com/user-attachments/assets/be8b66c4-c896-4ba1-b072-b53a2da6ae76)
+![Image](https://github.com/user-attachments/assets/bfc57743-6d2a-49b6-a97e-c896176228fc)
 
-### 3. Thêm thuốc vào đơn
-![Thêm thuốc](https://link-anh-3)
+### 3. Giao diện chọn thuốc
+![Image](https://github.com/user-attachments/assets/b604a9ae-b632-4ba0-b858-a0d26b591c7f)
 
-### 4. Giao diện thêm khách hàng mới
-![Tạo khách hàng mới](https://link-anh-4)
+### 4. Giao diện chọn chương trình khuyến mại
+![Image](https://github.com/user-attachments/assets/fb5c23e8-321e-40e3-b37c-b822c5dd54f1)
 
-### 5. Kết nối MongoDB thành công
-![Kết nối MongoDB](https://link-anh-5)
+### 5. Giao diện sau khi lựa chọn đủ các thành phần (có thể viết thêm ghi chú nếu cần)
+![Image](https://github.com/user-attachments/assets/f6c72aa0-97d7-4b3b-ae1f-9895323e6848)
+
+### 6. Thanh toán và in hóa đơn
+![Image](https://github.com/user-attachments/assets/89be274c-4f5e-4f5f-9c77-24be8f582813)
+![Image](https://github.com/user-attachments/assets/f52062f9-7cad-49ed-b8c6-68c376b8df86)
 
 ## ⚙️ Công nghệ sử dụng
 
