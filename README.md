@@ -38,19 +38,52 @@ Phần mềm quản lý nhà thuốc - module tạo đơn thuốc. Sử dụng n
 - MongoDB (sử dụng thư viện `mongodb-driver-sync`)
 - MongoDB Compass để quản lý dữ liệu trực quan
 
-## 🛠️ Hướng dẫn chạy ứng dụng
+## 🚀 Hướng dẫn cài đặt & chạy ứng dụng
 
-1. Mở project trong NetBeans
-2. Thêm 3 file `.jar` sau vào `Libraries` (hoặc trong src đã có sẵn):
-   - `mongodb-driver-sync-<version>.jar`
-   - `mongodb-driver-core-<version>.jar`
-   - `bson-<version>.jar`
-3. Cài đặt mongoDB, load dữ liệu mongoDB đầy đủ (tải tại - `mongoDBData`)
-4. Đảm bảo MongoDB đang chạy tại `localhost:27017`
-5. Clean & Build → Run Project
+### 1. Mở Project trong NetBeans
+
+- Clone hoặc tải source code từ GitHub.
+- Vào NetBeans → **File → Open Project** → chọn thư mục project.
+
+---
+
+### 2. Thêm thư viện MongoDB `.jar` vào Project
+
+#### ✅ Các thư viện cần thiết:
+
+- `mongodb-driver-sync-<version>.jar`
+- `mongodb-driver-core-<version>.jar`
+- `bson-<version>.jar`
+
+> 📦 3 file `.jar` này đã được đặt sẵn trong thư mục `lib/`. Nếu chưa có, bạn có thể tải từ:  
+> https://mongodb.github.io/mongo-java-driver/
+
+#### 🔧 Cách thêm vào Project (nếu cần):
+
+1. Chuột phải vào Project → **Properties**.
+2. Vào tab **Libraries** → **Compile**.
+3. Nhấn **Add JAR/Folder** → chọn các file `.jar` trong thư mục `lib/`.
+4. Nhấn **OK** để lưu.
+
+---
+
+### 3. Cài đặt MongoDB & Load dữ liệu
+
+#### 3.1. Cài MongoDB
+
+- Tải tại: https://www.mongodb.com/try/download/community
+- Khuyên dùng thêm MongoDB Compass để xem dữ liệu trực quan.
+
+#### 3.2. Tải dữ liệu mẫu
+
+- Dữ liệu mẫu nằm trong thư mục `mongoDBData/` của project.
+- Import bằng lệnh sau (CMD hoặc terminal):
+
+```bash
+mongorestore --db pharmacy ./mongoDBData/pharmacy
+```
 
 ## 📌 Ghi chú
 
 - Dữ liệu chỉ được lưu cục bộ trên MongoDB, không đồng bộ từ xa.
 - Chỉ triển khai chức năng tạo đơn thuốc để phục vụ mục tiêu học tập.
----
